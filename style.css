@@ -294,6 +294,10 @@ h1 {
   height: auto;
 }
 
+.shot.vox img {
+  max-height: 660px;
+}
+
 .note {
   color: var(--muted);
   font-size: 13px;
