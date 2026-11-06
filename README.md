@@ -16,8 +16,12 @@ Vox-Pack, USB-Floss et USB-Floss Magic.
 ## Mettre à jour
 
 - **Vox-Pack** : les boutons pointent vers
-  `releases/latest/download/Vox-Pack.zip` et `.../Vox-Pack.exe`.
+  `releases/latest/download/Vox-Pack.zip` (Apple Silicon),
+  `.../Vox-Pack-Intel.zip` (Mac Intel), `.../Vox-Pack-Setup.exe`
+  (l'installeur Windows) et `.../Vox-Pack.exe` (la version portable).
   Rien à changer à chaque version.
+  À publier **après** la 2.0.0 : les liens `Vox-Pack-Setup.exe` et
+  `Vox-Pack-Intel.zip` n'existent qu'à partir de cette version.
 - **USB-Floss** et **USB-Floss Magic** : les boutons pointent vers leur page
   `releases/latest`. Rien à changer non plus.
 - Les textes et les captures sont dans les pages : à modifier si nécessaire.
