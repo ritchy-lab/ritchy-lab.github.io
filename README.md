@@ -29,7 +29,7 @@ Vox-Pack, USB-Floss et USB-Floss Magic.
 ## Images d'aperçu
 
 - `assets/hub-social.png` (accueil) ;
-- `assets/vox-pack-social.png` ;
+- `assets/vox-pack-social-banner.png` ;
 - `assets/usb-floss-social.png` ;
 - `assets/usb-floss-magic-social.png`.
 
